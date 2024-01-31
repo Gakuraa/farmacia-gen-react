@@ -7,6 +7,7 @@ import ListaCategorias from './components/categorias/listaCategorias/ListaCatego
 import FormularioCategoria from './components/categorias/formularioCategoria/FormularioCategoria';
 import DeletarCategoria from './components/categorias/deletarCategoria/DeletarCategoria';
  
+// Configuração e teste de rotas concluido
 
 function App() {
   return (
